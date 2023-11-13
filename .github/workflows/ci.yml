@@ -53,7 +53,7 @@ jobs:
 
 
     - name: Run migrations
-      run: make migrateup
+      run: make migrateup   
       
 
     - name: Test
