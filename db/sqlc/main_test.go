@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/jackc/pgx/v5/pgxpool"
-	"github.com/techschool/simplebank/util"
+	"github.com/junhaoqu/simple-bank/util"
 )
 
 var testStore Store
